@@ -1,0 +1,16 @@
+Processor Info
+-----------------------------
+2 Processor
+AMD Opteron(tm) Processor 248
+
+Part 1:
+Norm: 6485.469727
+Max: 730 ms
+Avg: 720 ms
+Min: 710 ms
+
+Part 2: 
+Norm: 6485.469727
+Max: 760 ms
+Avg: 706.667 ms
+Min: 680 ms
